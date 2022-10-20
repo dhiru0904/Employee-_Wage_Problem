@@ -2,7 +2,7 @@ package EmployeeWage;
 
 public class PartTimeEmployeeWage {
     public PartTimeEmployeeWage() {
-        System.out.println("Welcome to Employee Wage Computation Program..!");
+        System.out.println("Welcome to EmployeeWage....");
     }
     public static void main(String[] args) {
         PartTimeEmployeeWage employee = new PartTimeEmployeeWage();
